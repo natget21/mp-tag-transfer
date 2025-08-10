@@ -15,7 +15,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://mpt.natget21.xyz"
+      "https://mp-tag-transfer-production.up.railway.app"
     ],
     credentials: true
   })
